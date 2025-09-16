@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rezky Desyafa</h1>
-<h3 align="center">Information Technology Students</h3>
+<h1 align="left">Hi 👋, I'm Rezky Desyafa</h1>
+<h3 align="left">Information Technology Students</h3>
 <p align="left">
 I am an Information Technology student, a Fullstack and Cybersecurity Enthusiast. Experienced in building APIs, developing front-end interfaces, and continuously learning about system architecture and application security. I am eager to contribute by creating secure and efficient end-to-end solutions.
 </p>
