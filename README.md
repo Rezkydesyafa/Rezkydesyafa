@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rezky Desyafa</h1>
 <h3 align="center">Information Technology Students</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkydesyafa&label=Profile%20views&color=0e75b6&style=flat" alt="rezkydesyafa" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkydesyafa&label=Profile%20views&color=0e75b6&style=flat" alt="rezkydesyafa" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezkydesyafa&show_icons=true&locale=en" alt="rezkydesyafa" /></p>
 <p align="left">
+
+I am an Information Technology student, a Fullstack and Cybersecurity Enthusiast. Experienced in building APIs, developing front-end interfaces, and continuously learning about system architecture and application security. I am eager to contribute by creating secure and efficient end-to-end solutions.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo a"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
